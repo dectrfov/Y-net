@@ -5,7 +5,7 @@ This repository shows implementation of [Y-net and Wavelet Structure Simlarity L
 
 We provide the loss function and the network. Please refer our previous [repository](https://github.com/dectrfov/Wavelet-U-net-Dehazing) that contain whole training code.
 
-<p align="center"><img width="80%" src="figure/Y_net.png" /></p>
+<p align="center"><img width="30%" src="figure/Y_net.png" /></p>
 
 ## Dependencies
 * [Python 3.6+](https://www.continuum.io/downloads)
