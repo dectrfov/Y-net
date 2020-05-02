@@ -3,7 +3,7 @@ Y-NET: MULTI-SCALE FEATURE AGGREGATION NETWORK WITH WAVELET STRUCTURE SIMILARITY
 
 This repository shows implementation of [Y-net and Wavelet Structure Simlarity Loss Function](https://ieeexplore.ieee.org/document/9053920). 
 
-We provide the loss function and the network. Please refer our previous [repository](https://github.com/dectrfov/Wavelet-U-net-Dehazing) that contain wholes training codes.
+We provide the loss function and the Y-net. Please refer our previous [repository](https://github.com/dectrfov/Wavelet-U-net-Dehazing) that contains wholes training codes.
 
 <p align="center"><img width="30%" src="figure/Y_net.png" /></p>
 
