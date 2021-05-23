@@ -12,7 +12,6 @@ class WSloss(nn.Module):
     def forward(self, x, y, r=0.7):
         loss = 0
         loss -= ssim_loss(x, y)
-        #loss+=L1(x,y)
         l, m, h = 1, 1, 1
         for i in range(2):
             l, m, h = l * r * r, l * r * (1 - r), l * (1 - r) * (1 - r)
