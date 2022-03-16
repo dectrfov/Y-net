@@ -7,7 +7,7 @@ ssim_loss = pytorch_ssim.SSIM()
 
 class WSloss(nn.Module):
     def __init__(self):
-        super(MSloss, self).__init__()
+        super(WSloss, self).__init__()
 
     def forward(self, x, y, r=0.7):
         loss = 0
